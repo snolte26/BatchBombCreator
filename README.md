@@ -4,8 +4,6 @@ Creates a batch bomb to use whenever.
 This is an older program I made early 2020. Finally wanted to give it a home.
 Heres the original README I made for it, censoring my last name:
 
-`
-
 Date: 02/16/2020
 Author: Alex "Sasha" ██████
 
@@ -23,6 +21,3 @@ What the .bat file does:
 	When opened, the .bat file begin to open more and more command line prompts. 
   After a certain amount opened prompts, the computer will be overloaded and crash. 
   Placing this file in the startup folder will make the computer constantly crash on startup
-  
-  `
-  
