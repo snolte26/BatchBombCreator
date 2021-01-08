@@ -1,4 +1,4 @@
-#Author: Alex Nolte
+#Author: Alex █████
 #Created: 2/16/2020
 
 import os
