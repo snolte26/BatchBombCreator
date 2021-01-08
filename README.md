@@ -2,7 +2,7 @@
 Creates a batch bomb to use whenever.
 
 This is an older program I made early 2020. Finally wanted to give it a home.
-originally, I called it a Pseudo Virus Creator, so please bear with that.
+Originally, I called it a Pseudo Virus Creator, so please bear with that.
 Heres the original README I made for it, censoring my last name:
 
 	Date: 02/16/2020
